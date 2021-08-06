@@ -52,6 +52,49 @@
     width: 132px;
 }
 /*story end*/
+/*footer start*/
+.f-banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.f-logo{
+    text-align: center;
+}
+.f1{
+    margin-top: 10px;
+}
+.f1 p a {
+    font-size: 14px !important;
+}
+.f2 h4 {
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.f2-text{
+    text-align: center;
+    margin-top: 25px;
+}
+.f2-text p {
+    margin-left: 0px;
+    margin-top: 5px;
+}
+.f2-icon {
+    text-align: center;
+    padding: 0px;
+    margin-top: 10px;
+}
+.c-social{
+    margin-top: 20px;
+}
+.c-social ul li a {
+    width: 40px;
+    height: 40px;
+}
+.c-social ul li a i {
+    font-size: 30px;
+}
+/*footer end*/
 
 }
 
@@ -101,6 +144,38 @@
     margin-top: 5px;
 }
 /*story end*/
+/*footer start*/
+.f-banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.f-logo{
+    text-align: center;
+}
+.f1{
+    margin-top: 10px;
+}
+.f1 p a {
+    font-size: 14px !important;
+}
+.f2 h4 {
+    margin-top: 30px;
+    text-align: center;
+}
+.f2-text{
+    margin-top: 25px;
+}
+.f2-text p {
+    margin-left: 0px;
+}
+.f2-icon {
+    padding: 10px;
+    margin-top: 20px;
+}
+.c-social{
+    margin-top: 40px;
+}
+/*footer end*/
 }	
 
 
@@ -144,6 +219,38 @@
     margin-top: 0px;
 }
 /*story end*/
+/*footer start*/
+.f-banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.f-logo{
+    text-align: center;
+}
+.f1{
+    margin-top: 10px;
+}
+.f1 p a {
+    font-size: 14px !important;
+}
+.f2 h4 {
+    margin-top: 30px;
+    text-align: center;
+}
+.f2-text{
+    margin-top: 25px;
+}
+.f2-text p {
+    margin-left: 0px;
+}
+.f2-icon {
+    padding: 10px;
+    margin-top: 20px;
+}
+.c-social{
+    margin-top: 40px;
+}
+/*footer end*/
 }
 
 /*Large devices (desktops, 992px and up)*/
@@ -158,7 +265,21 @@
     margin: 30px 71px;
 }
 /*banner end*/
-
+/*footer start*/
+.f-banner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.f1{
+    margin-top: 20px;
+}
+.f1 p a {
+    font-size: 14px !important;
+}
+.f2-text p {
+    margin-left: 15px;
+}
+/*footer end*/
 }
 /*X-Large devices (large desktop, 1200px and up)*/
 @media (min-width: 1200px) and (max-width: 1399.98px) {
